@@ -1,0 +1,17 @@
+.dado{
+ border-color: blue;
+text-align:center; 
+font-size:22px; 
+margin: 0 auto;
+}
+.dado2{
+ border-color: red;
+text-align:center; 
+font-size:22px; 
+margin: 0 auto;
+}
+
+.celda{
+	width: 35px;
+height: 35px;
+}
